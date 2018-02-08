@@ -1,0 +1,9 @@
+sidebar:
+  - title: Getting Started
+    children:
+      - title: Home
+        url: /
+  - title: About
+    children:
+      - title: Contributing
+        url: /README
