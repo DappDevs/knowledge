@@ -1,3 +1,5 @@
+# zk-SNARKS
+
 zk-SNARKS, aka "Zero-Knowledge Proofs", is a privacy algorithm that ensures (to a high degree of confidence)
 that the result of a calculation was performed correctly and obtains the right answer,
 without revealing anything about the answer itself.
