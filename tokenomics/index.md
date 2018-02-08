@@ -1,3 +1,5 @@
+# Tokenomics (aka "Crypto-economics")
+
 [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design) is a growing field that every budding crypto-economist must learn.
 Additionally, a crypto-economist can adopt control loop parameter estimation and design methods,
 particularly using the concepts behind [robust control](https://en.wikipedia.org/wiki/Robust_control)
