@@ -10,6 +10,9 @@ that is the means over which users are able to participate in a network,
 and the "system" (aka "plant") as a model of the various types of users,
 their available actions, and underlying motivations and behavior.
 
+For a *curated collection of links for cryptoeconomists*,
+check out [here](https://github.com/snario/awesome-cryptoeconomics)
+
 To help aid this level of economic design via the creation of multiple groups of concurrent users (modeled as bots),
 we are developing a botnet simulation framework that works with a local testnet [here](https://github.com/fubuloubu/eth-bot),
 as well as a suite of analysis and design tools [TBD](no-link).
